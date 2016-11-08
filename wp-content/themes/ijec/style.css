@@ -1,0 +1,13 @@
+/*
+Theme Name:     Investigative Journalism Education Consortium
+Theme URI:      http://largoproject.org
+Description:    A child theme for IJEC based on the Project Largo parent theme.
+Author:         Adam Schweigert/INN
+Author URI:     http://largoproject.org
+Template:       largo-dev
+Version:        0.1.0
+*/
+
+#site-header img {
+  margin-top: 0;
+}
